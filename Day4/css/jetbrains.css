@@ -1,0 +1,33 @@
+*{
+    margin:0
+}
+#wrapper{
+    width:1423px;
+    margin:auto;
+}
+#header{
+    background: url("../image/header.jpg");
+    height:300px;
+
+}
+#feature{
+    background:white);
+    height:251px;
+}
+#news{
+    background: url("../image/news.png");
+    background-repeat: no-repeat;
+    height:350px;
+}
+#code{
+    background: url("../image/code.jpg");
+    height:300px;
+}
+#achievement{
+    background: url("../image/achievement.jpg");
+    height:300px;
+}
+#footer{
+    background: url("../image/footer.jpg");
+    height: 450px;
+}

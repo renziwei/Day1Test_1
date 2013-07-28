@@ -1,0 +1,37 @@
+
+*{
+    font-style: italic;
+}
+
+h1{
+    color: purple;
+}
+p{
+    color: darkslategrey;
+}
+.big{
+    color:lightcoral;
+}
+
+#small{
+    color:darkcyan;
+    font-style: oblique;
+}
+form{
+    font-style:oblique;
+}
+#cat{
+    color:red;
+}
+#dog{
+    font-style: italic;
+}
+p.big{
+    color: red;
+}
+p.big,p{
+    border:10px solid #369;
+}
+p a{
+    color: yellow;
+}

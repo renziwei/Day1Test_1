@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+}
+h1{
+    background-color:red;
+}
+.weizhi{
+    position: relative;
+    top:15px;
+    right:15px;
+    display:none;
+}
